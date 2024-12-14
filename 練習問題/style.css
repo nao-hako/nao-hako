@@ -1,0 +1,52 @@
+body {
+    display: flex;
+
+    justify-self: center;
+}
+
+.service-text {
+    position: relative;
+
+    top: 60px;
+}
+
+h2 {
+    display: block;
+}
+
+h2 span { 
+    display: block;
+
+    margin-top: 0;
+}
+
+.service {
+    font-size: 60px;
+}
+
+p {
+    line-height: 30px;
+    
+    font-size: 20px;
+    
+    font-family: 'MS UI Gothic',sans-serif;
+    
+    font-weight: bold;
+}
+
+.service-botton {    
+    position: relative;
+    
+    left: 400px;
+
+    top: 40px;
+
+    text-decoration: none;
+    font-family: 'MS UI Gothic',sans-serif;
+
+    font-weight: bold;
+}
+
+a:link {
+    color: #000;
+}
